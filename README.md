@@ -48,7 +48,7 @@ A Formula 1 intelligent chatbot built with **Next.js**, **OpenAI**, and **DataSt
 
 ```bash
 git clone https://github.com/Himani070/chatbot.git
-cd GridBot-ai
+cd chatbot
 ```
 
 ### 2. Install dependencies
